@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwe/Desktop/4lab/program2/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+algorithm
+-
+iterator
+-
+NTL/GF2.h
+-
+NTL/GF2X.h
+-
+NTL/mat_GF2.h
+-
+

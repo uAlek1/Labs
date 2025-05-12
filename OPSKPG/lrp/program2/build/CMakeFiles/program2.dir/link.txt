@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/program2.dir/main.cpp.o  -o program2  -Wl,-rpath,/usr/local/lib /usr/local/lib/libntl.so -lpthread 

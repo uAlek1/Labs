@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qwe/Desktop/4lab/program1/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/program1.dir/main.cpp.o -c /home/qwe/Desktop/4lab/program1/main.cpp",
+  "file": "/home/qwe/Desktop/4lab/program1/main.cpp"
+}
+]

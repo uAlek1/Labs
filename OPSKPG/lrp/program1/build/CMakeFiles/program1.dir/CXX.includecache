@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qwe/Desktop/4lab/program1/main.cpp
+iostream
+-
+fstream
+-
+boost/dynamic_bitset.hpp
+-
+
